@@ -4,6 +4,7 @@ __pycache__/
 .Python
 .venv/
 venv/
+myvenv/
 env/
 .env
 .env.*
@@ -14,3 +15,4 @@ credentials.json
 Thumbs.db
 *.sqlite
 *.db
+!annotations.db
